@@ -37,9 +37,9 @@ APPOINTMENT_SYSTEM/
 ├── index.js                # Entry point
 ├── package.json
 ├── README.md
-├── .env                    # Environment variables (not included)
+├── .env                    # Environment variables (include your own)
 ├── appointment-api.postman_collection.json
-├── appointment-env.postman_environment.json (optional)
+├── appointment-env.postman_environment.json
 ```
 
 ---
@@ -65,7 +65,7 @@ APPOINTMENT_SYSTEM/
    ```
    node index.js
    ```
-   Your API should be running on `http://localhost:5000`
+   Your API should be running on `http://localhost:5000(or any other port you like` 
 
 ---
 
